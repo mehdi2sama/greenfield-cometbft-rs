@@ -1,5 +1,5 @@
 # imports
-reorder_imports = true
+reorder_imports = false
 
 # strings
 max_width = 100
